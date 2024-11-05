@@ -9,7 +9,7 @@
 
 ## 使用步骤
 
-[]("./example.png")
+![](./example.png)
 
 1. **运行程序**  
    运行`main.py`代码文件。
