@@ -113,6 +113,7 @@ def generate_HTML(info_list):
           height: 0;
           transition: opacity 0.3s ease, visibility 0s 0.3s, transform 0.3s ease;
           transform-origin: top;
+          white-space: pre-line;
         }
         
         .toggle-content.open {
