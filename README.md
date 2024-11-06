@@ -8,8 +8,15 @@
 
 ## 项目依赖
 
-- `requests` — 用于向教务系统发送请求。
-- `json` — 用于处理和解析JSON数据。
+请确保您安装了如下的Python库
+- `requests`
+- `json`
+
+如未安装 可以用`pip`命令一步安装:
+
+```bash
+pip install requests json
+```
 
 ## 使用步骤
 
@@ -50,8 +57,4 @@
 
 ## License
 
-这个项目是开源的，使用 [MIT License](LICENSE) 许可证。
-
----
-
-你可以根据项目的具体情况对以上内容进行修改。这个 `README.md` 文件提供了完整的使用步骤和项目概述，同时也包括了贡献和许可信息，符合开源项目的一般标准。
+这个项目是完全开源的，使用 [MIT License](LICENSE) 许可证。
